@@ -1,6 +1,18 @@
 # news_app_with_states
 
-A new Flutter project.
+# Briefly 📰
+
+A modern Flutter news app built with:
+- Flutter
+- States
+- Dio API
+
+## Features
+- Search news
+- Beautiful UI
+- Splash screen
+- News details
+
 
 ## Getting Started
 
